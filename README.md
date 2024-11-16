@@ -57,7 +57,7 @@ Or use your configured keybinding to launch the Rofi interface.
 ---
 
 ## **Screenshot**
-![screenshot](gif.gif)
+![screenshot](rofi-pulseaudio-manager.gif)
 
 
 ---
