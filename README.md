@@ -56,8 +56,9 @@ Or use your configured keybinding to launch the Rofi interface.
 
 ---
 
-## **Example Screenshot**
-*(Optional: Include a screenshot of the Rofi menu in action.)*
+## **Screenshot**
+![screenshot](gif.gif)
+
 
 ---
 
